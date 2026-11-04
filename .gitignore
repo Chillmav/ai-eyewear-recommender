@@ -18,14 +18,14 @@ backend/model/models
 backend/photos
 backend/model/brows
 backend/zdjecia_oprawek
-
+src/public
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
 *.suo
-*.ntvs*
+*.ntvs*y
 *.njsproj
 *.sln
 *.sw?
