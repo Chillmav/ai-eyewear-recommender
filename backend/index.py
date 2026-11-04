@@ -19,8 +19,8 @@ def fix_id(doc):
     doc["_id"] = str(doc["_id"])
     return doc
 
-# app.mount("/public", StaticFiles(directory="C:\\Users\\Kubus\\Desktop\\INZYNIERKA\\src\\public"), name="public") # PC
-app.mount("/public", StaticFiles(directory="C:\\Users\\Kuba\\Desktop\\projects\\INZYNIERKA\\src\\public"), name="public") # LAPTOP
+app.mount("/public", StaticFiles(directory="C:\\Users\\Kubus\\Desktop\\INZYNIERKA\\src\\public"), name="public") # PC
+# app.mount("/public", StaticFiles(directory="C:\\Users\\Kuba\\Desktop\\projects\\INZYNIERKA\\src\\public"), name="public") # LAPTOP
 
 
 

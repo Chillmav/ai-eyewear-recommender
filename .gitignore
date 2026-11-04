@@ -13,8 +13,12 @@ dist-ssr
 rows.json
 zdjecia_oprawek
 uploads
-backend/model
+dlib_probs/
+backend/model/models
+backend/photos
+backend/model/brows
 backend/zdjecia_oprawek
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

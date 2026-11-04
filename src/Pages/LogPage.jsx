@@ -22,7 +22,7 @@ export default function LogPage({ setUser }) {
         )
         
     }, [])
-
+    
 
     const [userPreferences, setUserPreferences] = useState(
 

@@ -1,0 +1,291 @@
+@online{rochester_urmc,
+  title = {Glasses Frame Selection Guide},
+  author = {{University of Rochester Medical Center}},
+  year = {2023},
+  url = {https://www.urmc.rochester.edu/eye-institute/strong-vision-optical/frames/selectionguide},
+  keywords = {naukowe}
+}
+
+@article{wilson2012,
+  author = {Wilson, G. and Bell, C. and Koreska, J.},
+  title = {Eyewear fitting: relationship between facial measurements and frame dimensions},
+  journal = {Optometry and Vision Science},
+  year = {2012},
+  volume = {89},
+  pages = {E304--E312},
+    keywords = {naukowe}
+}
+
+@article{article,
+author = {Soliman, Tamer and Abd-elaziem, Ayman},
+year = {2023},
+month = {08},
+pages = {},
+title = {A Multi-Layer Perceptron (MLP) Neural Networks for Stellar Classification: A Review of Methods and Results},
+volume = {3},
+journal = {International Journal of Advances in Applied Computational Intelligence},
+doi = {10.54216/IJAACI.030203},
+    keywords = {naukowe}
+}
+
+@article{efficientnet,
+author = {Pak, Alexandr and Ziyaden, Atabay and Tukeshev, Kuanysh and Jaxylykova, Assel and Abdullina, Dana},
+year = {2020},
+month = {08},
+pages = {},
+title = {Comparative analysis of deep learning methods of detection of diabetic retinopathy},
+volume = {7},
+journal = {Cogent Engineering},
+doi = {10.1080/23311916.2020.1805144},
+keywords = {naukowe}
+}
+@article{chan2017,
+  author = {Chan, G. P. K.},
+  title = {Anthropometric Considerations in Eyewear Design},
+  journal = {Ophthalmic and Physiological Optics},
+  year = {2017},
+  volume = {37},
+  pages = {345--356},
+keywords = {naukowe}
+}
+
+@online{potrzeby_klientów,
+  title = {Potrzeby indentyfikowane przez klientów salonów optycznych},
+  url = {https://ghosteye.pl/wiesz-komu-sprzedajesz-dwa-typu-klientow-salonu-optycznego/},
+keywords={internet},
+urldate = {2025-12-08},
+}
+
+@online{potrzeby_pracowników,
+  title = {Potrzeby indentyfikowane przez pracowników salonów optycznych},
+  url = {https://dochodowyoptyk.pl/jak-wdrozyc-nowego-pracownika-do-salonu-optycznego/},
+keywords={internet},
+urldate = {2025-12-08},
+}
+@online{fitting_box,
+  title = {Rozwiązanie fittingbox},
+  url = {https://fittingbox.com/},
+keywords={internet},
+urldate = {2025-12-08},
+}
+@online{lenskart,
+  title = {Rozwiązanie lenskart},
+  url = {https://www.lenskart.com/},
+keywords={internet},
+urldate = {2025-12-08},
+}
+
+
+@online{warby_parker,
+  title = {How to Choose Glasses for Your Face Shape},
+  author = {{Warby Parker}},
+  year = {2023},
+  url = {https://www.warbyparker.com/learn/glasses-for-different-face-shapes},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
+
+@online{imagenet,
+  title = {ImageNet},
+  url = {https://www.image-net.org/about.php},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+
+@online{zdjecie,
+  title = {zdjecie testowe},
+  url = {https://pixabay.com/photos/burano-colorful-houses-canal-9973925/},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+@online{mediapipe_face,
+  title = {mediapipe result},
+  url = {https://medium.com/@hotakoma/mediapipe-landmark-face-hand-pose-sequence-number-list-view-778364d6c414},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+@online{numpy,
+  title = {numpy documentation},
+  url = {https://numpy.org/doc/stable/user/index.html#user},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+@online{pytorch,
+  title = {pytorch documentation},
+  url = {https://docs.pytorch.org/docs/stable/index.html},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+https://docs.pytorch.org/docs/stable/index.html
+@article{DBLP:journals/corr/abs-1711-05101,
+  author       = {Ilya Loshchilov and
+                  Frank Hutter},
+  title        = {Fixing Weight Decay Regularization in Adam},
+  journal      = {CoRR},
+  volume       = {abs/1711.05101},
+  year         = {2017},
+  url          = {http://arxiv.org/abs/1711.05101},
+  eprinttype    = {arXiv},
+  eprint       = {1711.05101},
+  timestamp    = {Mon, 13 Aug 2018 16:48:18 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-1711-05101.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org},
+keywords = {naukowe}
+}
+
+@misc{mao2023crossentropylossfunctionstheoretical,
+      title={Cross-Entropy Loss Functions: Theoretical Analysis and Applications}, 
+      author={Anqi Mao and Mehryar Mohri and Yutao Zhong},
+      year={2023},
+      eprint={2304.07288},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2304.07288},
+keywords = {naukowe}
+}
+
+@misc{alkababji2022schedulingtechniquesliversegmentation,
+      title={Scheduling Techniques for Liver Segmentation: ReduceLRonPlateau Vs OneCycleLR}, 
+      author={Ayman Al-Kababji and Faycal Bensaali and Sarada Prasad Dakua},
+      year={2022},
+      eprint={2202.06373},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2202.06373}, 
+keywords={naukowe}
+}
+
+@online{b4,
+  title = {torchvision.models.efficientnet_b4},
+  url = {https://docs.pytorch.org/vision/main/models/generated/torchvision.models.efficientnet_b4.html},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+@online{kaggle_faces,
+  title = {kaggle faces},
+  url = {https://www.kaggle.com/datasets/niten19/face-shape-dataset},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+@online{brows1,
+  title = {luniversum brows rules},
+  url = {https://luniversum.com/en/eyebrows},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+@online{brows2,
+  title = {baralunettes brows rules},
+  url = {https://baralunettes.com/en/blogs/news/sourcils-et-lunettes-les-regles-a-respecter-dans-
+le-choix-d-une-monture-sharmonisant-a-votre-visage},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+@online{brows3,
+  title = {banton brows rules},
+  url = {https://www.bantonframeworks.co.uk/blogs/guides/should-glasses-cover-your-eyebrows},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+@online{mediapipe,
+  title = {mediapipe facemesh},
+  url = {https://mediapipe.readthedocs.io/en/latest/solutions/face_mesh.html},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+@article{bouhadana2022,
+  author       = {Bouhadana, Gabriel and Gornitsky, Joel and Saleh, Elias and Oliveira Trabelsi, Nathalie and Borsuk, Denis E.},
+  title        = {Expanding the Classic Facial Canons: Quantifying Intercanthal Distance in a Diverse Patient Population},
+  journaltitle = {Plastic and Reconstructive Surgery Global Open},
+  year         = {2022},
+  volume       = {10},
+  number       = {4},
+  pages        = {e4268},
+  doi          = {10.1097/GOX.0000000000004268},
+  url          = {https://doi.org/10.1097/GOX.0000000000004268},
+  keywords = {naukowe}
+}
+
+@online{zenni_optical,
+  title = {Find the Perfect Glasses for Your Face Shape},
+  author = {{Zenni Optical}},
+  year = {2023},
+  url = {https://www.zennioptical.com/glasses-for-face-shape},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
+@article{optometry_today_2023,
+  author = {Johnson, M. and Chen, L.},
+  title = {Visual perception and frame selection: How material choice affects facial proportion perception},
+  journal = {Optometry Today},
+  year = {2023},
+  volume = {63},
+  number = {4},
+  pages = {45--52},
+  note = {Dostęp: \url{https://www.sciencedirect.com/science/article/pii/S2405844023071542}},
+keywords = {naukowe}
+}
+
+@online{zenni_optical_blog,
+  title = {Finding the Perfect Glasses with Zenni: Eye Spacing Considerations},
+  author = {{Zenni Optical}},
+  year = {2023},
+  url = {https://www.zennioptical.com/blog/finding-the-perfect-glasses-with-zenni/},
+  urldate = {2025-12-08},
+keywords = {internet}
+}
+
+@online{poudre_valley_guide,
+  title = {Frame Fit Guide: Find Perfect Eyeglasses for Your Face Shape},
+  author = {{Poudre Valley Eye Care}},
+  year = {2023},
+  url = {https://www.poudrevalleyeyecare.com/blog/frame-fit-guide-find-perfect-eyeglasses-for-your-face-shape/},
+  urldate = {2025-12-08},
+keywords = {internet}
+}
+@online{sunloox.com,
+  title = {Kształt oprawek},
+  url = {https://sunloox.com/},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
+
+@online{dlib_landmarks,
+  title = {dlib landmarks},
+  url = {https://github.com/A94-M/face-landmark-by-dlib-library},
+  keywords = {internet},
+urldate = {2025-12-08},
+}
+
+
+https://github.com/A94-M/face-landmark-by-dlib-library
+@online{eyebuydirect,
+  title = {Glasses and Sunglasses for Your Face Shape},
+  author = {{EyeBuyDirect}},
+  year = {2023},
+  url = {https://www.eyebuydirect.com/guides/frames-and-face-shapes},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
+
+@online{zeiss,
+  title = {What Style of Glasses is Right for Me?},
+  author = {{ZEISS Vision Care}},
+  year = {2023},
+  url = {https://www.zeiss.com/vision-care/en/eye-health-and-care/lifestyle-fashion/what-style-of-glasses-is-right-for-me.html},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
+
+@online{poudre_valley,
+  title = {Frame Fit Guide: Find Perfect Eyeglasses for Your Face Shape},
+  author = {{Poudre Valley Eye Care}},
+  year = {2023},
+  url = {https://www.poudrevalleyeyecare.com/blog/frame-fit-guide-find-perfect-eyeglasses-for-your-face-shape/},
+  urldate = {2025-12-08},
+  keywords = {internet}
+}
